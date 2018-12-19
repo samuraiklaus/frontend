@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuraiklaus/frontend.git",
+  "author": "samuraiklaus",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/register": "^7.0.0",
+    "browser-sync": "^2.26.3",
+    "gulp": "4"
+  }
+}
